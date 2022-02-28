@@ -1,0 +1,15 @@
+{
+  "name": "capstone-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start":"react-scripts start",
+   "build":"react-scripts build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.0"
+  }
+}
