@@ -1,0 +1,17 @@
+{
+  "name": "capstone-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-amplify/ui-react": "^2.6.2",
+    "aws-amplify": "^4.3.14",
+    "react-scripts": "^2.1.3"
+  }
+}
