@@ -12,6 +12,6 @@
   "dependencies": {
     "@aws-amplify/ui-react": "^2.6.2",
     "aws-amplify": "^4.3.14",
-    "react-scripts": "^5.0.0"
+    "react-scripts": "^2.1.3"
   }
 }
