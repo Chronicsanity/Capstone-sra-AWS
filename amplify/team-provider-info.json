@@ -10,6 +10,11 @@
       "StackName": "amplify-capstoneamplify-staging-155020",
       "StackId": "arn:aws:cloudformation:us-east-2:329462591156:stack/amplify-capstoneamplify-staging-155020/223b8420-98ae-11ec-901d-0a95a07c257c",
       "AmplifyAppId": "d3jsh54vyc1k8v"
+    },
+    "categories": {
+      "auth": {
+        "capstoneamplify21b4e749": {}
+      }
     }
   }
 }
